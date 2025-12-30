@@ -2,13 +2,7 @@
 
 **Scimus Cui Prodest** — *We Know Who Benefits*
 
-Lobbying is a partnership. In this firm, we believe that cases must be made and arguments must be heard. We make them. We take the work seriously, guided by 14 Principles and 10 Commandments adapted from the highest standards of professional excellence.
-
-## Our Philosophy
-
-We have adapted our governing principles from those drafted by John Whitehead of Goldman Sachs. While originally intended for investment banking, we believe professional excellence transcends industry.
-
-### Principles
+## Principles
 
 These principles were drafted by John Whitehead of Goldman Sachs in the 1970s to preserve Goldman's unique culture as it grew. We have adapted them for lobbying and government affairs. Professional excellence transcends industry.
 
@@ -87,4 +81,4 @@ XIV. Integrity and honesty are at the heart of our business. We expect our peopl
 For formal inquiries, please [Write to Us](mailto:ink@cravatandcompany.org) or use our firmwide iMessage at `cravatandco@icloud.com`.
 
 **Follow Our Progress:**
-[BlueSky](bsky.app) | [LinkedIn](www.linkedin.com) | [Instagram](www.instagram.com) | [YouTube](www.youtube.com)
+[BlueSky]([bsky.app](https://bsky.app/profile/cravatandcompany.bsky.social) | [LinkedIn]([www.linkedin.com](https://www.linkedin.com/company/cravatandco)) | [Instagram]([www.instagram.com](https://www.instagram.com/cravatandco/)) | [YouTube]((https://www.youtube.com/@CravatandCo))
