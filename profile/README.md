@@ -61,12 +61,26 @@ XIV. Integrity and honesty are at the heart of our business. We expect our peopl
 
 ### Style 
 
-We adhere to rigorous standards in every facet of our practice.
+**Apparel**
+*   John Bridges & Bryan Curtis, *A Gentleman Gets Dressed Up: What to Wear, When to Wear It* (Rutledge Hill Press 2003).
 
-*   **Writing & Style:** We follow [The Winning Brief]() by Bryan A. Garner and the [HBR Guide to Better Business Writing]().
-*   **Typography:** [Typography for Lawyers]() by Matthew Butterick.
-*   **Citation:** [The Bluebook: A Uniform System of Citation]() (22d ed. 2024).
-*   **Apparel:** *A Gentleman Gets Dressed Up* by John Bridges & Bryan Curtis.
+**Typography**
+*   Matthew Butterick, [Typography for Lawyers]() (2d ed. 2018).
+
+**House Style**
+*   Antonin Scalia & Bryan A. Garner, *Making Your Case: The Art of Persuading Judges* (2008).
+
+**Writing**
+*   [The Bluebook: A Uniform System of Citation]() (Columbia Law Review Ass'n et al. eds., 22d ed. 2024).
+*   Bryan A. Garner, *The Winning Brief: 100 Tips for Persuasive Briefing in Trial and Appellate Courts* (3d ed. 2014).
+*   Bryan A. Garner, *HBR Guide to Better Business Writing* (Harvard Business Review Press 2012).
+
+**The Profession**
+*   Lately Thomas, *Sam Ward: "King of the Lobby"* (Houghton Mifflin Co. 1965).
+*   Kathryn Allamong Jacob, *King of the Lobby: The Life and Times of Sam Ward, Man-About-Washington in the Gilded Age* (Johns Hopkins Press 2010).
+*   Bob Burke & Ralph Thompson, *Bryce Harlow: Mr. Integrity* (Oklahoma Heritage Ass'n 2000).
+*   Charles D. Ellis, *The Partnership: The Making of Goldman Sachs* (Penguin Press 2008).
+
 
 ## Contact
 
