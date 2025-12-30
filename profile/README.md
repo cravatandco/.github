@@ -81,4 +81,4 @@ XIV. Integrity and honesty are at the heart of our business. We expect our peopl
 For formal inquiries, please [Write to Us](mailto:ink@cravatandcompany.org) or use our firmwide iMessage at `cravatandco@icloud.com`.
 
 **Follow Our Progress:**
-[BlueSky]([bsky.app](https://bsky.app/profile/cravatandcompany.bsky.social) | [LinkedIn](https://www.linkedin.com/company/cravatandco)) | [Instagram]((https://www.instagram.com/cravatandco/)) | [YouTube]((https://www.youtube.com/@CravatandCo))
+[BlueSky]([bsky.app](https://bsky.app/profile/cravatandcompany.bsky.social) | [LinkedIn](https://www.linkedin.com/company/cravatandco)) | [Instagram](https://www.instagram.com/cravatandco/) | [YouTube](https://www.youtube.com/@CravatandCo)
