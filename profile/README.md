@@ -1,4 +1,4 @@
-# Cravat and Company LLC
+# Cravat and Company
 
 **Scimus Cui Prodest** — *We Know Who Benefits*
 
