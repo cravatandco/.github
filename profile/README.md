@@ -1,11 +1,13 @@
 # Scimus Cui Prodest ~ We Know Who Benefits
 <details>
-<summary>🌍 70+ countries and counting. Click to see the list!</summary>
+<summary>🌍 3+ countries and counting. Click to see the list!</summary>
 
 *   United States
-*   United Kingdom
-*   Germany
-*   ... [add all 70+ locations here] ...
+*     New Jeresy
+*     Mass
+*   Italy
+*   France
+* and more coming. we are expanding
 </details>
 
 The Firm:
