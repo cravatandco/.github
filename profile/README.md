@@ -40,9 +40,9 @@ We have adapted our governing principles from those drafted by John Whitehead of
 
 We adhere to rigorous standards in every facet of our practice.
 
-*   **Writing & Style:** We follow [The Winning Brief](www.lawprose.org) by Bryan A. Garner and the [HBR Guide to Better Business Writing](hbr.org).
-*   **Typography:** [Typography for Lawyers](typographyforlawyers.com) by Matthew Butterick.
-*   **Citation:** [The Bluebook: A Uniform System of Citation](www.legalbluebook.com) (22d ed. 2024).
+*   **Writing & Style:** We follow [The Winning Brief]() by Bryan A. Garner and the [HBR Guide to Better Business Writing]().
+*   **Typography:** [Typography for Lawyers]() by Matthew Butterick.
+*   **Citation:** [The Bluebook: A Uniform System of Citation]() (22d ed. 2024).
 *   **Apparel:** *A Gentleman Gets Dressed Up* by John Bridges & Bryan Curtis.
 
 ## Contact
