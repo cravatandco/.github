@@ -65,7 +65,7 @@ XIV. Integrity and honesty are at the heart of our business. We expect our peopl
 *   Antonin Scalia & Bryan A. Garner, *Making Your Case: The Art of Persuading Judges* (2008).
 
 **Writing**
-*   [The Bluebook: A Uniform System of Citation]() (Columbia Law Review Ass'n et al. eds., 22d ed. 2024).
+*  _ The Bluebook: A Uniform System of Citation_ (Columbia Law Review Ass'n et al. eds., 22d ed. 2024).
 *   Bryan A. Garner, *The Winning Brief: 100 Tips for Persuasive Briefing in Trial and Appellate Courts* (3d ed. 2014).
 *   Bryan A. Garner, *HBR Guide to Better Business Writing* (Harvard Business Review Press 2012).
 
@@ -81,4 +81,4 @@ XIV. Integrity and honesty are at the heart of our business. We expect our peopl
 For formal inquiries, please [Write to Us](mailto:ink@cravatandcompany.org) or use our firmwide iMessage at `cravatandco@icloud.com`.
 
 **Follow Our Progress:**
-[BlueSky]([bsky.app](https://bsky.app/profile/cravatandcompany.bsky.social) | [LinkedIn]([www.linkedin.com](https://www.linkedin.com/company/cravatandco)) | [Instagram]([www.instagram.com](https://www.instagram.com/cravatandco/)) | [YouTube]((https://www.youtube.com/@CravatandCo))
+[BlueSky]([bsky.app](https://bsky.app/profile/cravatandcompany.bsky.social) | [LinkedIn](https://www.linkedin.com/company/cravatandco)) | [Instagram]((https://www.instagram.com/cravatandco/)) | [YouTube]((https://www.youtube.com/@CravatandCo))
