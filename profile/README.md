@@ -35,11 +35,8 @@ XIII. Our business is highly competitive, and we aggressively seek to expand our
 XIV. Integrity and honesty are at the heart of our business. We expect our people to maintain high ethical standards in everything they do, both in their work for the firm and in their personal lives.
 
 ---
-
-### Commandments
-
 *"Never content to be a one-trick pony, Whitehead put out another set of guidelines or tactics for IBS business development in 1970—and these were ten commandments."* — Charles D. Ellis, *The Partnership: The Making of Goldman Sachs* 188 (2008).
-
+### Commandments
 1. Don’t waste your time going after business we don’t really want.
 2. The boss usually decides—not the assistant treasurer. Do you know the boss?
 3. It’s just as easy to get a first-rate piece of business as a second-rate one.
