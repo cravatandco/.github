@@ -4,7 +4,7 @@
 
 ## Principles
 
-These principles were drafted by John Whitehead of Goldman Sachs in the 1970s to preserve Goldman's unique culture as it grew. We have adapted them.
+These principles were written by John Whitehead of Goldman Sachs to preserve the Partnership's unique culture as it grew. We have adapted them.
 
 I. Our clients’ interests always come first. Our experience shows that if we serve our clients well, our own success will follow.
 
