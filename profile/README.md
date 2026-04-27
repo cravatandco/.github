@@ -24,7 +24,7 @@ VIII. The dedication of our people to the firm and the intense effort they give 
 
 IX. Our profits are a key to our success. They replenish our capital and attract and keep our best people. It is our practice to share our profits generously with all who helped create them. Profitability is crucial to our future.
 
-X. We consider our size an asset that we try hard to preserve. We want to be big enough to undertake the largest project that any of our clients could contemplate, yet small enough to maintain the loyalty, the intimacy, and the esprit de corps that we all treasure and that contribute greatly to our success.
+X. We consider our size an asset that we try hard to preserve. We want to be big enough to undertake the largest project that any of our clients could contemplate, yet small enough to maintain the loyalty, the intimacy, and the _esprit de corps_ that we all treasure and that contribute greatly to our success.
 
 XI. We constantly strive to anticipate the rapidly changing needs of our clients and to develop new services to meet those needs. We know that the world of lobbying will not stand still and that complacency can lead to extinction.
 
